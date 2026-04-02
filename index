@@ -51,8 +51,7 @@
 
     <div class="video-box">
       <video controls autoplay muted loop>
-        <source src="video.mp4" type="video/mp4" />
-        브라우저가 video 태그를 지원하지 않습니다.
+        <source src="video-intro.mp4" type="video/mp4" />
       </video>
     </div>
   </div>
